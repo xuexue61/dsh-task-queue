@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Task queue",
+    "description": "Records items per project (workspace) in a conversation View, lets you set priorities, sends them to the conversation with one click or automatically by priority, and shows per-item progress.",
+    "detail": "docs/DETAIL.md"
+  }
+}

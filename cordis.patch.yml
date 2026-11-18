@@ -1,0 +1,4 @@
+- insert:
+    - id: task-queue
+      name: dsh-task-queue
+      config: {}
