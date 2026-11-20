@@ -2,6 +2,12 @@
 
 A task queue as a DeepSeek Harness conversation view.
 
+![Tasks view](assets/screenshot-tasks.png)
+
+![Inline editing](assets/screenshot-edit.png)
+
+![Dark theme](assets/screenshot-dark.png)
+
 ![icon](icon.svg)
 
 English | [中文](#中文)
